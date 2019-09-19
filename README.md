@@ -1,6 +1,6 @@
 # samanthaford.github.io
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="uft-8">
