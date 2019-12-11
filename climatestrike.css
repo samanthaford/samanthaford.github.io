@@ -1,0 +1,33 @@
+a {
+
+	text-decoration-line: none;
+	color: green;
+
+}
+a:hover {
+
+	color: orange;
+
+}
+
+.top {
+	text-align: center;
+}
+
+.img1 {
+	text-align: center;
+}
+
+.img2 {
+	text-align: center;
+}
+
+.img3 {
+	text-align: center;
+}
+
+.block2 {
+	text-align: center;
+}
+
+
